@@ -1,6 +1,5 @@
 # KCN-StarRail-Unlock
- 
-# mhypbase-Agent-free-Patch
+
 #### 简体中文
 
 > 崩坏:星穹铁道 帧率解锁工具
@@ -8,7 +7,7 @@
 ---
 
 ### 软件下载：
-- 请到最新[Releases](https://github.com/JDDKCN/mhypbase-Agent-free-Patch/releases/)处下载。
+- 请到最新[Releases](https://github.com/JDDKCN/KCN-StarRail-Unlock/releases/)处下载。
 
 ### 软件截图 ： 
 - v1.0.1 2023/04/27
