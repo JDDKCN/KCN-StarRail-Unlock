@@ -6,8 +6,9 @@
 
 ---
 
-### 软件下载：
-- 请到最新[Releases](https://github.com/JDDKCN/KCN-StarRail-Unlock/releases/)处下载。
+### 软件运行：
+- 下载：请到最新 [Releases](https://github.com/JDDKCN/KCN-StarRail-Unlock/releases/) 处下载编译完成的应用程序。
+- 自行构建：请下载 [项目源代码](https://github.com/JDDKCN/KCN-StarRail-Unlock/archive/refs/heads/main.zip) 并使用 VisualStudio 编译并运行应用程序。
 
 ### 软件截图 ： 
 - v1.0.1 2023/04/27
